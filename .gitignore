@@ -1,0 +1,10 @@
+/.vscode
+/bin
+/credential.txt
+/download_data
+/include
+/lib
+/pyvenv.cfg
+/share
+/__pycache__
+/lib64
